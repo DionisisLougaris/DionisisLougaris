@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend projects**
 
-- 🌱 I’m currently learning **NodeJs, ReactJs and Python**
+- 🌱 I’m currently learning **NodeJs, VueJs and Python**
 
 - 📫 How to reach me **dlougaris@gmail.com**
 
